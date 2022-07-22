@@ -6,9 +6,10 @@
 }
 .btn-right{
     border-radius: 20px;
-    color: white;
-    /*background-color:#7b3fe4; */
-    background-color:#FE943A;
+    color: #999;
+    background-color:#7b3fe4; 
+   /* background-color:#FE943A; */
+    
     padding: 8px 20px;
 }
 .navbar{
